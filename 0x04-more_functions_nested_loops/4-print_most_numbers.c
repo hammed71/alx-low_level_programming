@@ -2,7 +2,7 @@
 
 /**
 *print_most_numbers - prints
-* this is for the task 
+* owned by Bwave ICT 
 *Return: void
 */
 
